@@ -1,3 +1,1 @@
-# one hashtag
-## two hashtags 
-### three hashtags
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
